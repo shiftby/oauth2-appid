@@ -1,7 +1,7 @@
 {
-    "name": "jampire/oauth2-appid",
+    "name": "shiftby/oauth2-appid",
     "description": "IBM App ID OAuth 2.0 Client Provider for The PHP League OAuth2 Client",
-    "homepage": "https://github.com/Jampire/oauth2-appid",
+    "homepage": "https://github.com/shiftby/oauth2-appid",
     "license": "MIT",
     "keywords": [
         "oauth",
@@ -31,7 +31,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "league/oauth2-client": "^2.4"
+        "league/oauth2-client": "^2.2"
     },
     "require-dev": {
         "ext-json": "*",
